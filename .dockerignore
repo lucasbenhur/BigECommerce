@@ -1,0 +1,10 @@
+**/[Bb]in/
+**/[Oo]bj/
+**/.vs/
+**/.vscode/
+**/.git/
+**/.gitignore
+**/*.log
+**/*.tmp
+**/packages/
+**/node_modules/

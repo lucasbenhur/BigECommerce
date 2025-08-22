@@ -1,0 +1,6 @@
+@BigECommerce.Api_HostAddress = http://localhost:5267
+
+GET {{BigECommerce.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
