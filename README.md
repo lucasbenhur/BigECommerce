@@ -40,7 +40,7 @@ Obtenha o token para autenticação no swagger fazendo um POST em http://localho
 <img width="387" height="78" alt="image" src="https://github.com/user-attachments/assets/7fa63ce9-2578-4e97-a519-910c1afc3a87" />
 
 #### 3. Rodar o container
-<img width="387" height="78" alt="image" src="https://github.com/user-attachments/assets/5a6673b7-c3fc-4450-95f3-fc3977a1b9ac" />
+<img width="720" height="55" alt="image" src="https://github.com/user-attachments/assets/a5bedf4e-87c9-4ef0-bb5e-1579be2602bf" />
 
 #### 4. Acessar a API e Swagger
 
