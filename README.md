@@ -1,6 +1,6 @@
 # Big E-Commerce
 
-BigECommerce é uma aplicação de e-commerce desenvolvida em .NET 8 com arquitetura modular, usando Domain Driven Design (DDD), MediatR, Entity Framework Core e PostgreSQL. A aplicação está preparada para execução via Docker.
+BigECommerce é uma aplicação de e-commerce desenvolvida em .NET 8 com arquitetura modular, usando Domain Driven Design (DDD), MediatR, Entity Framework Core MemoryDatabase. A aplicação está preparada para execução via Docker.
 
 ## Tecnologias utilizadas
 - .NET 8 (C#)
